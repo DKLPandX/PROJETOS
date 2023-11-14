@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.carro {
+  color: #4b0082;
+  margin: 0px;
+}
+
+.bicicleta {
+  color: #ff8c00;
+  margin: 0px;
+}
+
+div a {
+  background: #ff00ff;
+  padding: 20px;
+  border: 5px solid #00ff00;
+  display: inline-block;
+  color: #00ffff;
+  font-size: 40px;
+}
+
+a {
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+p {
+  color: #4b0082;
+  margin: 0px;
+  color: red;
+  font: bold;
+  font-size: 30px;
+  padding: 5px;
+}
